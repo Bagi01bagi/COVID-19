@@ -40,6 +40,8 @@ Everything else I did in the reports
 4. In this step i tried to use sort
    -A) Sort the entire data wrt No. of Confirmed cases in ascending order?
    -B) Sort the entire data wrt No. of Recovered cases in descending order?
+
+![Image alt](https://github.com/Bagi01bagi/COVID-19/blob/main/sort.png)
    
 5. Finally i knew How many Confirmed, Deaths & Recovered cases where reported from India till 29 april 2020
    I showed it with table and Slicer with regions 
