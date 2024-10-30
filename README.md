@@ -46,6 +46,6 @@ Everything else I did in the reports
 5. Finally i knew How many Confirmed, Deaths & Recovered cases where reported from India till 29 april 2020
    I showed it with table and Slicer with regions 
 
-
+![Image alt](https://github.com/Bagi01bagi/COVID-19/blob/main/india.png)
 
    
