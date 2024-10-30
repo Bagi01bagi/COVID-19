@@ -21,4 +21,4 @@ Deaths_Null_Count = Total_Rows - Deaths_Count
 Recovered_Null_Count = Total_Rows - Recovered_Count
 
 # We can see zero values ​​in the form of column diagrams with accumulation
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Bagi01bagi/COVID-19/blob/main/1%20stacked.png)
