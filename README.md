@@ -28,7 +28,7 @@ Everything else I did in the reports
 * Show the number of Confirmed, Deaths and Recovered cases in each region.
 * the map of Sum of Confirmed by Region and State
 
-![Image alt](https://github.com//Bagi01bagi/COVID-19/blob/main/tha%20map.png)
+![Image alt](https://github.com/Bagi01bagi/COVID-19/blob/main/tha%20map.png)
 
 3. The second page i try to show 
    *In which Region, maximum number of Confirmed cases were recorded?
@@ -36,7 +36,7 @@ Everything else I did in the reports
    *Remove all the records where Confirmed cases is less than 10
    *Show the number of Confirmed, Deaths and Recovered cases in each region. I added slicer which helps with filters
    
-
+![Image alt](https://github.com/Bagi01bagi/COVID-19/blob/main/3%20region.png)
 4. In this step i tried to use sort
    -A) Sort the entire data wrt No. of Confirmed cases in ascending order?
    -B) Sort the entire data wrt No. of Recovered cases in descending order?
